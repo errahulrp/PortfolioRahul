@@ -13,20 +13,14 @@ const AboutMe = () => {
                     </div>
                     <div className='ml-2 lg:ml-5 lg:w-[500px] text-white '>
                         <h3 className=' font-truculenta text-2xl text-gray-400 pt-3 sm:pt-0'>React Developer</h3>
-                        <p className=' mt-3 font-truculenta text-xl'>I'm a Software Development Engineer in Test (SDET) with extensive expertise in cutting-edge
-                            automation testing tools, API testing, and performance testing across diverse applications. My
-                            experience spans iOS mobile apps, web applications, blockchain projects, and data scraping.
+                        <p className=' mt-3 font-truculenta text-xl'>
+                            Greetings! I am a seasoned Software Developer and Software Development Engineer in Test (SDET) with a year of hands-on experience in JavaScript, React, and Automation Testing. In the realm of Automation Testing, I have honed my skills using a variety of tools including React, JavaScript, Tailwind CSS, HTML, Playwright, Cypress, and Selenium. My passion lies in consistently delivering high-quality products.
                             <br />
                             <div className=' mt-1'></div>
-                            I specialize in leveraging trending automation testing tools to ensure top-notch software quality
-                            and have a knack for optimizing API and performance testing strategies. My proficiency extends to
-                            handling varied application types, ensuring their seamless functionality, reliability, and
-                            performance.
+                            As an SDET, I bring extensive expertise in cutting-edge automation testing tools, API testing, and performance testing across a diverse range of applications. My experience encompasses iOS mobile apps, web applications, blockchain projects, and data scraping. I specialize in leveraging trending automation testing tools to ensure top-notch software quality and have a knack for optimizing API and performance testing strategies. My proficiency extends to handling varied application types, ensuring their seamless functionality, reliability, and performance.
                         </p>
                         <p className='mt-3 font-truculenta text-xl hidden lg:block '>
-                            With a robust background in quality assurance and a penchant for exploring emerging technologies, I
-                            bring a wealth of experience in delivering superior testing solutions to drive efficiency and
-                            reliability across software projects.
+                            With a robust background in quality assurance and a keen interest in exploring emerging technologies, I bring a wealth of experience to deliver superior testing solutions. My goal is to drive efficiency and reliability across software projects, ensuring they meet the highest standards of quality. <br />Let's embark on a journey of flawless software quality together!
                         </p>
                     </div>
                 </div>

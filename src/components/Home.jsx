@@ -8,14 +8,12 @@ const Home = () => {
                 <div className=' font-Garamond text-md text-gray-400 '>Software Developer React</div>
                 <h1 className=' mt-3 text-3xl sm:text-4xl font-truculenta'> Rahul Patil</h1>
                 <p className=' font-Asul mt-4 mr-4 sm:mr-6 md:mr-10 text-gray-400 text-sm sm:text-base'>
-                    Hello! I'm a Software Development Engineer in Test with a year of hands-on experience in both
-                    Automation and Manual testing realms. Within Automation Testing, I've honed my skills in Playwright,
-                    Cypress, and Puppeteer using JavaScript, alongside wielding the Selenium Testing Tool with Java.
-
-                    My passion lies in consistently delivering uncompromising software quality. I'm driven by a
-                    commitment to excellence and thrive on ensuring seamless, robust, and top-tier software solutions.
-<br />
-                    Let's embark on a journey of flawless software quality together!
+                Hello! I'm a Software Developer with a year of hands-on experience in JavaScript, React,
+                 and Automation Testing realms. In Automation Testing, I've honed my skills using tools 
+                 such as React, JavaScript, Tailwind CSS, HTML, Playwright, Cypress, and Selenium. 
+                 My passion lies in consistently delivering quality products.
+                  <br />
+                  Let's embark on a journey of flawless software quality together!
                 </p>
                 <div className='mt-5 font-Asul text-gray-400'>
                     <Link to='/AboutMe'> <p className=' flex items-center gap-3'> Learn more
