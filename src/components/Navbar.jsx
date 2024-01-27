@@ -25,12 +25,12 @@ const Navbar = () => {
                 </div>
                 <div className={` fixed z-50 bg-[#121212] w-full h-[330px] -ml-11  ${menu === 'close' ? 'hidden' : ''}`}>
                     <ul className={`  text-white text-xl font-Bellefair px-10 pt-8   ${menu === 'close' ? 'hidden' : ''}`}>
-                        <li className='cursor-pointer'>About Me</li>
-                        <li className=' mt-3 cursor-pointer'>Experience</li>
-                        <li className=' mt-3 cursor-pointer'>Education</li>
-                        <li className=' mt-3 cursor-pointer'>Projects</li>
-                        <li className=' mt-3 cursor-pointer'>Skills</li>
-                        <li className=' mt-3 cursor-pointer'>Contact</li>
+                        <li className='cursor-pointer'> <a href="#AboutMe">About Me</a></li>
+                        <li className=' mt-3 cursor-pointer'><a href="#Experience"> Experience</a></li>
+                        <li className=' mt-3 cursor-pointer'><a href="#Education">Education</a></li>
+                        <li className=' mt-3 cursor-pointer'><a href="#Projects">Projects</a></li>
+                        <li className=' mt-3 cursor-pointer'><a href="#Skills">Skills</a></li>
+                        <li className=' mt-3 cursor-pointer'><a href="#Contact">Contact</a></li>
                     </ul>
                 </div>
             </div>
