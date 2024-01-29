@@ -92,7 +92,7 @@ const Skills = () => {
                         </div>
 
 
-                        {/* Redix */}
+                        {/* Redux */}
                         <div className="w-16 sm:w-20 md:w-28 h-16 sm:h-20 md:h-28 border border-gray-600 hover:border-white rounded-lg bg-[#626267] ">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 256 256" className=" w-8 sm:w-10 md:w-16 h-8 sm:h-10 md:h-16 mt-2 sm:mt-3 md:mt-4 ml-[14px] sm:ml-[18px] md:ml-[22px] hover:scale-105 duration-300" >
                                 <rect width="256" height="256" fill="#242938" rx="60" />
@@ -109,7 +109,7 @@ const Skills = () => {
                                     <path fill="#AD2115" d="M174.707 91.8408L171.738 93.0072L144.348 82.1805L174.691 70.1766L174.707 91.8408Z" />
                                 </g>
                             </svg>
-                            <h1 className=' text-xs sm:text-sm font-Asul text-gray-300 ml-4 sm:ml-5 md:ml-9 mt-1 '>Redix</h1>
+                            <h1 className=' text-xs sm:text-sm font-Asul text-gray-300 ml-4 sm:ml-5 md:ml-9 mt-1 '>Redux</h1>
                         </div>
 
                         {/* Java */}
